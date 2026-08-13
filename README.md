@@ -154,6 +154,6 @@ It is a basic password analysis tool and should not be considered a complete pas
 
 ## Author
 
-**Danial**
+**Daniyal**
 
 Built as part of my journey learning Python and cybersecurity.
