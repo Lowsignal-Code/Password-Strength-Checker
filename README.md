@@ -96,7 +96,7 @@ cd Password-Strength-Checker
 Run the program:
 
 ```bash
-python password_checker.py
+python Main.py
 ```
 
 ## Requirements
