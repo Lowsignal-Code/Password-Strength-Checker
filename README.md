@@ -84,7 +84,7 @@ Once the password has been analyzed, the program calculates the final score.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Lowsignal-Code/Password-Strength-Checker.git
+git clone https://github.com/HoneySpider/Password-Strength-Checker.git
 ```
 
 Move into the project directory:
